@@ -1,0 +1,23 @@
+Starting the process
+Current path: /home/acam/Projects/stem-loyola-projects/LHS-Virus-Cleanup-Tool-python
+adipisci.lhs is changed to adipisci.txt
+Dolor.lhs is changed to Dolor.txt
+quisquam-dolor.lhs is changed to quisquam-dolor.txt
+dolore-aliquam-dolor.lhs is changed to dolore-aliquam-dolor.txt
+porro-numquam.lhs is changed to porro-numquam.txt
+Adipisci-voluptatem.lhs is changed to Adipisci-voluptatem.txt
+ipsum.lhs is changed to ipsum.txt
+quisquam.-voluptatem-Dolor.lhs is changed to quisquam.-voluptatem-Dolor.txt
+sit-Velit-neque.lhs is changed to sit-Velit-neque.txt
+Velit-sit-porro.lhs is changed to Velit-sit-porro.txt
+amet.lhs is changed to amet.txt
+dolor.-quiquia-Non.lhs is changed to dolor.-quiquia-Non.txt
+quisquam.-etincidunt.lhs is changed to quisquam.-etincidunt.txt
+tempora.-dolore-magnam.lhs is changed to tempora.-dolore-magnam.txt
+Quisquam.lhs is changed to Quisquam.txt
+sit-Velit-neque.lhs is changed to sit-Velit-neque.txt
+amet.lhs is changed to amet.txt
+sit-magnam-neque.lhs is changed to sit-magnam-neque.txt
+est-labore.lhs is changed to est-labore.txt
+Ipsum.lhs is changed to Ipsum.txt
+5 Subfolders and 40 Files where found.

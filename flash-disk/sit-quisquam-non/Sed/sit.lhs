@@ -1,0 +1,1 @@
+Numquam adipisci non tempora.
