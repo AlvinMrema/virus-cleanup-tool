@@ -39,7 +39,7 @@ def displayAndLog ( message, end = "\n" ):
 
     print(message, end=end)
 
-
+# Traversing through a folder and save the message to logs file as well as display message to user
 def filenameChanger(folder, changeFrom, changeTo):
     # Variables for tracking counts
     folders = []
