@@ -50,18 +50,11 @@ def main():
     lhs.log("Current path: ", end="")
     lhs.log(os.getcwd())
 
-    folderName = input('Enter the Name of the folder to work on:')
+    folderName = input('Enter the Name of the folder to work on: ')
 
     lhs.filenameChanger(folderName, 'lhs', 'txt')
 
     lhs.display("Done!")
-
-    # NOTE: No functionality/logic should be written in this main file. Create
-	#       functions inside viruscleanup files for that. "viruscleanup.h"
-	#       should contain function declarations ONLY and "viruscleanup.cpp"
-	#       should contain the definitions of those functions. This main file
-	#       should ONLY contain calls to those functions. Failure to follow
-	#       this organization will lead to loss of points. [Remove this comment once read]
 
 
 if __name__ == "__main__":

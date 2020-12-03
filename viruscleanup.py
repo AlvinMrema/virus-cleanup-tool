@@ -56,7 +56,7 @@ def filenameChanger(folder, changeFrom, changeTo):
                 renameTo = os.path.join(folderName, newFilename)
                 shutil.move(renameFrom, renameTo)
                 
-                log("{} is changed to {}".format(filename, newFilename))
+                log("{} => {}".format(filename, newFilename))
         
             files += 1
         
